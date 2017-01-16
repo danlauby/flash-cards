@@ -1,3 +1,6 @@
-.definitions {
+.javascript, .operator, .variable, .naming, .functions {
   display: none;
+}
+.show {
+  display: block;
 }
